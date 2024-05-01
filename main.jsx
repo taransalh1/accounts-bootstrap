@@ -1,5 +1,5 @@
 import React from 'react';
-import { Accounts, STATES } from 'meteor/std:accounts-ui';
+import { Accounts, STATES } from 'meteor/taransalh:accounts-ui';
 
 /**
  * Form.propTypes = {

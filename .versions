@@ -53,7 +53,7 @@ routepolicy@1.1.1
 session@1.2.1
 socket-stream-client@0.5.2
 softwarerero:accounts-t9n@1.3.3
-taransalh:accounts-bootstrap@1.2.2
+taransalh:accounts-bootstrap@1.2.3
 taransalh:accounts-ui@1.3.2
 tmeasday:check-npm-versions@0.3.0
 tracker@1.3.3
